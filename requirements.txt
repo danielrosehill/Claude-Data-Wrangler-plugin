@@ -61,6 +61,12 @@ openapi-spec-validator>=0.7
 # HF Hub
 huggingface_hub>=0.24
 
+# Geospatial (geodata-formatter)
+shapely>=2.0
+pyproj>=3.6
+# optional geo stack
+# geopandas, fiona, h3, geopy, geojson-pydantic
+
 # YAML / misc
 PyYAML>=6.0
 zstandard>=0.22

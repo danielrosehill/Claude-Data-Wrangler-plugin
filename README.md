@@ -59,6 +59,8 @@ Data cleaning, enrichment, restructuring, and packaging skills for tabular and J
 | `vector-upsert` | Embed text fields and upsert into a vector DB (Pinecone / Qdrant / Weaviate / pgvector / Chroma / Milvus) |
 | `hf-dataset-push` | Publish a packaged dataset to Hugging Face Hub with dataset card |
 | `api-loader` | Prepare and push data into a REST API or MCP server, from an OpenAPI spec or well-known SDK |
+| `geodata-formatter` | Convert CSV / tabular geodata into GeoJSON (or NDGeoJSON) with CRS reprojection and geometry inference |
+| `divergent-data-pipe` | Build an incremental sync from a canonical upstream into a downstream project that has diverged (renames / enrichments), preserving the divergence |
 
 ## Conventions
 

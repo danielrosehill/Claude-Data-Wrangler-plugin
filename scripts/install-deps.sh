@@ -40,6 +40,7 @@ GROUPS[vector]="sentence-transformers pinecone-client qdrant-client weaviate-cli
 GROUPS[graph]="neo4j python-arango gqlalchemy"
 GROUPS[api]="httpx tenacity prance openapi-spec-validator"
 GROUPS[hf]="huggingface_hub"
+GROUPS[geo]="shapely pyproj"
 GROUPS[misc]="PyYAML zstandard"
 
 MODE="all"
