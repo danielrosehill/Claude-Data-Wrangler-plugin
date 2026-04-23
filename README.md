@@ -30,6 +30,7 @@ Data cleaning, enrichment, restructuring, and packaging skills for tabular and J
 | `add-data-dictionary` | Generate a data dictionary (Markdown / YAML / JSON / CSV) for a dataset |
 | `update-data-dictionary` | Keep an existing data dictionary in sync after schema changes |
 | `data-dictionary-export` | Export a data dictionary to a polished PDF via Typst |
+| `data-to-document` | Render a dataset (or a filtered slice) to PDF via Typst, with layout auto-chosen from data shape, selectable fields, and custom column labels |
 | `add-changelog` | Maintain a dataset-focused `CHANGELOG.md` (Keep-a-Changelog, SemVer-adapted) |
 
 ### Reshape & format
