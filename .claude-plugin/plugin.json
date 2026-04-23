@@ -1,6 +1,6 @@
 {
   "name": "Claude-Data-Wrangler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Data cleaning, enrichment, restructuring, and packaging skills for tabular and JSON datasets. Excludes data visualisation.",
   "author": {
     "name": "Daniel Rosehill",
