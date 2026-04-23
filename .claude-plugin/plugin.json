@@ -1,0 +1,12 @@
+{
+  "name": "Claude-Data-Wrangler",
+  "version": "1.0.0",
+  "description": "Data cleaning, enrichment, restructuring, and packaging skills for tabular and JSON datasets. Excludes data visualisation.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Data-Wrangler-plugin",
+  "license": "MIT",
+  "keywords": ["data-cleaning", "data-enrichment", "etl", "csv", "json", "parquet", "huggingface", "iso3166", "iso4217"]
+}
