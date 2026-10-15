@@ -101,7 +101,7 @@ Each skill updates the data dictionary so provenance is preserved end-to-end.
 ### Plugin
 
 ```bash
-claude plugins install Claude-Data-Wrangler@danielrosehill
+claude plugins install data-wrangler@danielrosehill
 ```
 
 ### Python dependencies (via uv)
